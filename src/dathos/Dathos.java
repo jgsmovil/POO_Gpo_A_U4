@@ -19,6 +19,7 @@ public class Dathos {
         //encapsulamiento
         String NumCon = info.getNombre()+" "+info.getCarrera()+" "+info.getSemestre();
         System.out.println("\nDatos generales alumno(a) : "+NumCon);
+        System.out.println("Hola");
         
     }
     // se crean metodos
